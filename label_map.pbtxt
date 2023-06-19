@@ -1,0 +1,8 @@
+item { 
+	name:'crop'
+	id:1
+}
+item { 
+	name:'weed'
+	id:2
+}
